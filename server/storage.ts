@@ -331,6 +331,26 @@ Sports analysts are already calling the season "miraculous," noting that FC Unit
         publishedAt: new Date('2023-11-10T21:15:00Z').toISOString(),
         isFeatured: 0
       }
+      {
+        title: 'MedVisual: A New Chapter in Bangladesh's Healthcare Innovation',
+        slug: 'medvisual-new-chapter-bangladesh-healthcare-innovation',
+        excerpt: 'AI-powered startup MedVisual launches in Bangladesh, promising to revolutionize healthcare with innovative digital solutions.',
+        content: `In a groundbreaking move for Bangladesh's healthcare sector, MedVisual officially marked its foundation on February 14, 2025. The AI-powered startup aims to bridge the gaps in medical management and patient care, promising a revolutionary approach to digitized healthcare.
+
+Born from an ambitious idea at HackCSB 2024, MedVisual is led by a trio of innovators—Md Raiyan Rahman (CEO), Md Shahidullah (CTO), and Miraj Shafek (CFO). Their vision is clear: to create a seamless, AI-driven healthcare ecosystem that empowers patients, doctors, and hospitals alike.
+
+The platform offers a range of pioneering features, including AI-powered medical report digitization, telemedicine consultations, an integrated e-pharmacy, hospital partnerships, and predictive health analytics. These solutions aim to streamline patient experiences, making healthcare more accessible, efficient, and data-driven.
+
+"Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management."
+
+As part of its milestone celebration, MedVisual also launched its official website (https://lnkd.in/eDgkh3WD), providing a glimpse into its vision, progress, and upcoming innovations. With a dedicated team and a forward-thinking approach, the startup is set to leave a lasting impact on Bangladesh's healthcare landscape and beyond.`,
+      imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
+      categoryId: 3, // Technology
+      author: 'Editorial Team',
+      publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
+     isFeatured: 1
+    }
+      
     ];
     
     sampleArticles.forEach(article => {
