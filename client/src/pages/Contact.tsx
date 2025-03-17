@@ -83,24 +83,24 @@ const Contact = () => {
                   <div className="space-y-4">
                     <div>
                       <h3 className="font-semibold">Editorial Inquiries</h3>
-                      <p className="text-gray-400">editor@eveningpost.com</p>
+                      <p className="text-gray-400">mirajshafek04@gmail.com</p>
                     </div>
                     
                     <div>
                       <h3 className="font-semibold">Advertising</h3>
-                      <p className="text-gray-400">ads@eveningpost.com</p>
+                      <p className="text-gray-400">mirajshafek04@gmail.com</p>
                     </div>
                     
                     <div>
                       <h3 className="font-semibold">Subscription Support</h3>
-                      <p className="text-gray-400">support@eveningpost.com</p>
+                      <p className="text-gray-400">mirajshafek04@gmail.com</p>
                     </div>
                     
                     <div>
                       <h3 className="font-semibold">Office Location</h3>
                       <p className="text-gray-400">
-                        123 News Avenue<br />
-                        Metropolis, MP 10001
+                        Local host: />
+                        forgot
                       </p>
                     </div>
                   </div>
@@ -201,7 +201,7 @@ const Contact = () => {
                   Have a story idea or news tip? We're always looking for important and interesting stories to share with our readers.
                 </p>
                 <p className="text-gray-400">
-                  For confidential tips, please email <a href="mailto:tips@eveningpost.com" className="text-red-600 hover:underline">tips@eveningpost.com</a> or use our secure contact form.
+                  For confidential tips, please email <a href="mirajshafek04@gmail.com" className="text-red-600 hover:underline">tips@eveningpost.com</a> or use our secure contact form.
                 </p>
               </div>
             </div>
