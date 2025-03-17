@@ -308,52 +308,55 @@ Security remains tight around the venue, with the talks expected to continue for
         publishedAt: new Date('2023-11-11T13:20:00Z').toISOString(),
         isFeatured: 0
       },
-{
-  title: 'Underdog Team Makes Historic Championship Win',
-  slug: 'underdog-team-makes-historic-championship-win',
-  excerpt: 'Against all odds, team secures their first title in dramatic final match.',
-  content: `In what many are calling one of the greatest underdog stories in sports history, FC United has won their first championship title after a dramatic comeback victory in the final match of the season.
+      {
+        title: 'Underdog Team Makes Historic Championship Win',
+        slug: 'underdog-team-makes-historic-championship-win',
+        excerpt: 'Against all odds, team secures their first title in dramatic final match.',
+        content: `In what many are calling one of the greatest underdog stories in sports history, FC United has won their first championship title after a dramatic comeback victory in the final match of the season.
 
-  The team, which was playing in the second division just three years ago, overcame a two-goal deficit in the second half to defeat the defending champions 3-2. The winning goal came in the final minute of stoppage time from captain Jamie Rodriguez.
-  
-  "I still can't believe it," said Rodriguez in a post-match interview, fighting back tears. "This team has faced so many challenges, so many people said we didn't belong at this level. Today we proved that heart and determination can overcome anything."
-  
-  The victory is especially meaningful for the city's passionate fan base, who have supported the club through decades of disappointment. Thousands of supporters filled the streets after the match in spontaneous celebration.
-  
-  The team's success has been attributed to their innovative playing style and the leadership of head coach Martina Diaz, who became the first woman to manage a team to a championship in the league's history.
-  
-  "This isn't just about winning a trophy," said Diaz. "It's about showing that when people come together with a common goal and support each other, incredible things can happen."
-  
-  Sports analysts are already calling the season "miraculous," noting that FC United had the lowest wage bill in the league and was widely predicted to be relegated at the start of the season.`,
-  imageUrl: 'https://images.unsplash.com/photo-1471295253337-3ceaaedca402?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
-  categoryId: 6, // Sports
-  author: 'Carlos Menendez',
-  publishedAt: new Date('2023-11-10T21:15:00Z').toISOString(),
-  isFeatured: 0
-},
-{
-  title: 'MedVisual: A New Chapter in Bangladesh\'s Healthcare Innovation',
-  slug: 'medvisual-new-chapter-bangladesh-healthcare-innovation',
-  excerpt: 'AI-powered startup MedVisual launches in Bangladesh, promising to revolutionize healthcare with innovative digital solutions.',
-  content: `In a groundbreaking move for Bangladesh's healthcare sector, MedVisual officially marked its foundation on February 14, 2025. The AI-powered startup aims to bridge the gaps in medical management and patient care, promising a revolutionary approach to digitized healthcare.
-  
-  Born from an ambitious idea at HackCSB 2024, MedVisual is led by a trio of innovators—Md Raiyan Rahman (CEO), Md Shahidullah (CTO), and Miraj Shafek (CFO). Their vision is clear: to create a seamless, AI-driven healthcare ecosystem that empowers patients, doctors, and hospitals alike.
-  
-  The platform offers a range of pioneering features, including AI-powered medical report digitization, telemedicine consultations, an integrated e-pharmacy, hospital partnerships, and predictive health analytics. These solutions aim to streamline patient experiences, making healthcare more accessible, efficient, and data-driven.
-  
-  "Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management."
-  
-  As part of its milestone celebration, MedVisual also launched its official website (https://lnkd.in/eDgkh3WD), providing a glimpse into its vision, progress, and upcoming innovations. With a dedicated team and a forward-thinking approach, the startup is set to leave a lasting impact on Bangladesh's healthcare landscape and beyond.`,
-  imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
-  categoryId: 3, // Technology
-  author: 'Editorial Team',
-  publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
-  isFeatured: 1
+The team, which was playing in the second division just three years ago, overcame a two-goal deficit in the second half to defeat the defending champions 3-2. The winning goal came in the final minute of stoppage time from captain Jamie Rodriguez.
+
+"I still can't believe it," said Rodriguez in a post-match interview, fighting back tears. "This team has faced so many challenges, so many people said we didn't belong at this level. Today we proved that heart and determination can overcome anything."
+
+The victory is especially meaningful for the city's passionate fan base, who have supported the club through decades of disappointment. Thousands of supporters filled the streets after the match in spontaneous celebration.
+
+The team's success has been attributed to their innovative playing style and the leadership of head coach Martina Diaz, who became the first woman to manage a team to a championship in the league's history.
+
+"This isn't just about winning a trophy," said Diaz. "It's about showing that when people come together with a common goal and support each other, incredible things can happen."
+
+Sports analysts are already calling the season "miraculous," noting that FC United had the lowest wage bill in the league and was widely predicted to be relegated at the start of the season.`,
+        imageUrl: 'https://images.unsplash.com/photo-1471295253337-3ceaaedca402?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
+        categoryId: 6, // Sports
+        author: 'Carlos Menendez',
+        publishedAt: new Date('2023-11-10T21:15:00Z').toISOString(),
+        isFeatured: 0
+      },
+      {
+        title: 'MedVisual: A New Chapter in Bangladesh\'s Healthcare Innovation',
+        slug: 'medvisual-new-chapter-bangladesh-healthcare-innovation',
+        excerpt: 'AI-powered startup MedVisual launches in Bangladesh, promising to revolutionize healthcare with innovative digital solutions.',
+        content: `In a groundbreaking move for Bangladesh's healthcare sector, MedVisual officially marked its foundation on February 14, 2025. The AI-powered startup aims to bridge the gaps in medical management and patient care, promising a revolutionary approach to digitized healthcare.
+        
+        Born from an ambitious idea at HackCSB 2024, MedVisual is led by a trio of innovators—Md Raiyan Rahman (CEO), Md Shahidullah (CTO), and Miraj Shafek (CFO). Their vision is clear: to create a seamless, AI-driven healthcare ecosystem that empowers patients, doctors, and hospitals alike.
+        
+        The platform offers a range of pioneering features, including AI-powered medical report digitization, telemedicine consultations, an integrated e-pharmacy, hospital partnerships, and predictive health analytics. These solutions aim to streamline patient experiences, making healthcare more accessible, efficient, and data-driven.
+        
+        "Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management."
+        
+        As part of its milestone celebration, MedVisual also launched its official website (https://lnkd.in/eDgkh3WD), providing a glimpse into its vision, progress, and upcoming innovations. With a dedicated team and a forward-thinking approach, the startup is set to leave a lasting impact on Bangladesh's healthcare landscape and beyond.`,
+        imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
+        categoryId: 3, // Technology
+        author: 'Editorial Team',
+        publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
+        isFeatured: 1
+      }
+    ];
+    
+    sampleArticles.forEach(article => {
+      this.createArticle(article);
+    });
+  }
 }
-
-sampleArticles.forEach(article => {
-  this.createArticle(article);
-});
 
 export const storage = new MemStorage();
 
