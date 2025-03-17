@@ -344,12 +344,12 @@ The platform offers a range of pioneering features, including AI-powered medical
 "Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management."
 
 As part of its milestone celebration, MedVisual also launched its official website (https://lnkd.in/eDgkh3WD), providing a glimpse into its vision, progress, and upcoming innovations. With a dedicated team and a forward-thinking approach, the startup is set to leave a lasting impact on Bangladesh's healthcare landscape and beyond.`,
-      imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
-      categoryId: 3, // Technology
-      author: 'Editorial Team',
-      publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
-     isFeatured: 1
-    }
+        imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80',
+        categoryId: 3, // Technology
+        author: 'Editorial Team',
+        publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
+        isFeatured: 1
+      }
       
     ];
     
