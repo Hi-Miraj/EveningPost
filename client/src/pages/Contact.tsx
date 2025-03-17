@@ -99,8 +99,8 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold">Office Location</h3>
                       <p className="text-gray-400">
-                        Local host: />
-                        forgot
+                        123 Main Street, Mirpur<br />
+                        Dhaka, Bangladesh
                       </p>
                     </div>
                   </div>
