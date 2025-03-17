@@ -331,27 +331,27 @@ Sports analysts are already calling the season "miraculous," noting that FC Unit
         publishedAt: new Date('2023-11-10T21:15:00Z').toISOString(),
         isFeatured: 0
       },
-      {
-        title: 'MedVisual: A New Chapter in Bangladesh\'s Healthcare Innovation',
-        slug: 'medvisual-new-chapter-bangladesh-healthcare-innovation',
-        excerpt: 'AI-powered startup MedVisual launches in Bangladesh, promising to revolutionize healthcare with innovative digital solutions.',
-        content: `In a groundbreaking move for Bangladesh's healthcare sector, MedVisual officially marked its foundation on February 14, 2025. This AI-powered startup aims to bridge the critical gaps in medical management and patient care, introducing a revolutionary approach to digitized healthcare that promises to transform the way healthcare services are delivered in the country.
-              
-        Born from an ambitious idea at HackCSB 2024, MedVisual is led by a visionary team of innovators—Md Raiyan Rahman (CEO), Md Shahidullah (CTO), and Miraj Shafek (CFO). United by their shared passion for improving healthcare accessibility, they envisioned a solution that integrates cutting-edge technology with the real-world challenges facing Bangladesh's healthcare system. Their collective vision is clear: to create a seamless, AI-driven healthcare ecosystem that empowers patients, doctors, and hospitals alike, ensuring that high-quality medical services are available to everyone, no matter their location or background.
-              
-        The MedVisual platform offers a wide range of pioneering features that are set to revolutionize the healthcare landscape. This includes AI-powered medical report digitization, which allows patients to easily access and track their health data. Additionally, telemedicine consultations enable patients to consult with doctors remotely, ensuring timely healthcare even in the most remote areas. The integrated e-pharmacy allows for the easy ordering of medicines, while partnerships with hospitals ensure that patients receive the best possible care. The platform also offers predictive health analytics, helping patients stay ahead of potential health issues before they become serious.
-              
-        The startup's holistic approach focuses on making healthcare more accessible, efficient, and data-driven, offering personalized experiences for patients and actionable insights for healthcare providers. MedVisual's comprehensive solutions not only streamline patient experiences but also improve healthcare outcomes by harnessing the power of AI and advanced analytics to make smarter, more informed decisions.
-              
-        "Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management. By combining AI and real-world applications, we aim to create a truly transformative impact on the healthcare sector."
-              
-        As part of its milestone celebration, MedVisual also launched its official website (<a href="https://medvisual.netlify.app/" target="_blank">https://medvisual.netlify.app/</a>), providing a comprehensive glimpse into its vision, progress, and upcoming innovations. The site highlights the startup's achievements so far, showcasing its team, products, and the long-term impact it hopes to achieve. With a dedicated team of experts and a forward-thinking approach, MedVisual is poised to leave a lasting and positive impact on Bangladesh's healthcare landscape, paving the way for similar transformations in other emerging markets. The team's innovative efforts and commitment to progress reflect their ambition to revolutionize the future of healthcare, not only in Bangladesh but across the globe.`,
-        imageUrl: 'https://images.unsplash.com/photo-1742229062571-2006d23b9371?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        categoryId: 3, // Technology
-        author: 'Editorial Team',
-        publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
-        isFeatured: 1
-      }
+{
+  title: 'MedVisual: A New Chapter in Bangladesh\'s Healthcare Innovation',
+  slug: 'medvisual-new-chapter-bangladesh-healthcare-innovation',
+  excerpt: 'AI-powered startup MedVisual launches in Bangladesh, promising to revolutionize healthcare with innovative digital solutions.',
+  content: `<p>In a groundbreaking move for Bangladesh's healthcare sector, MedVisual officially marked its foundation on February 14, 2025. This AI-powered startup aims to bridge the critical gaps in medical management and patient care, introducing a revolutionary approach to digitized healthcare that promises to transform the way healthcare services are delivered in the country.</p>
+        
+<p>Born from an ambitious idea at HackCSB 2024, MedVisual is led by a visionary team of innovators—Md Raiyan Rahman (CEO), Md Shahidullah (CTO), and Miraj Shafek (CFO). United by their shared passion for improving healthcare accessibility, they envisioned a solution that integrates cutting-edge technology with the real-world challenges facing Bangladesh's healthcare system. Their collective vision is clear: to create a seamless, AI-driven healthcare ecosystem that empowers patients, doctors, and hospitals alike, ensuring that high-quality medical services are available to everyone, no matter their location or background.</p>
+        
+<p>The MedVisual platform offers a wide range of pioneering features that are set to revolutionize the healthcare landscape. This includes AI-powered medical report digitization, which allows patients to easily access and track their health data. Additionally, telemedicine consultations enable patients to consult with doctors remotely, ensuring timely healthcare even in the most remote areas. The integrated e-pharmacy allows for the easy ordering of medicines, while partnerships with hospitals ensure that patients receive the best possible care. The platform also offers predictive health analytics, helping patients stay ahead of potential health issues before they become serious.</p>
+        
+<p>The startup's holistic approach focuses on making healthcare more accessible, efficient, and data-driven, offering personalized experiences for patients and actionable insights for healthcare providers. MedVisual's comprehensive solutions not only streamline patient experiences but also improve healthcare outcomes by harnessing the power of AI and advanced analytics to make smarter, more informed decisions.</p>
+        
+<p>"Our mission is to redefine the way healthcare operates in Bangladesh," said CEO Md Raiyan Rahman. "We're not just another health-tech startup—we're building an ecosystem that will shape the future of healthcare accessibility and management. By combining AI and real-world applications, we aim to create a truly transformative impact on the healthcare sector."</p>
+        
+<p>As part of its milestone celebration, MedVisual also launched its official website (<a href="https://medvisual.netlify.app/" target="_blank">https://medvisual.netlify.app/</a>), providing a comprehensive glimpse into its vision, progress, and upcoming innovations. The site highlights the startup's achievements so far, showcasing its team, products, and the long-term impact it hopes to achieve. With a dedicated team of experts and a forward-thinking approach, MedVisual is poised to leave a lasting and positive impact on Bangladesh's healthcare landscape, paving the way for similar transformations in other emerging markets. The team's innovative efforts and commitment to progress reflect their ambition to revolutionize the future of healthcare, not only in Bangladesh but across the globe.</p>`,
+  imageUrl: 'https://images.unsplash.com/photo-1742229062571-2006d23b9371?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  categoryId: 3, // Technology
+  author: 'Editorial Team',
+  publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
+  isFeatured: 1
+}
     ];
     
     sampleArticles.forEach(article => {
