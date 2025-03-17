@@ -1,5 +1,3 @@
----
-
 # The Evening Post
 
 **The Evening Post** is an open-source news sharing platform that aims to provide unrestricted access to global news. With a focus on freedom of expression and transparency, the platform allows users to share, access, and discuss news from all corners of the world without any restrictions or limitations.
