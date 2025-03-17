@@ -1,5 +1,3 @@
-Got it! Here's a more simplified version of the README, focused on describing the project without technical details:
-
 ---
 
 # The Evening Post
