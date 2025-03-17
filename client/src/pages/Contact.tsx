@@ -201,7 +201,7 @@ const Contact = () => {
                   Have a story idea or news tip? We're always looking for important and interesting stories to share with our readers.
                 </p>
                 <p className="text-gray-400">
-                  For confidential tips, please email <a href="mirajshafek04@gmail.com" className="text-red-600 hover:underline">tips@eveningpost.com</a> or use our secure contact form.
+                  For confidential tips, please email <a href="mailto:mirajshafek04@gmail.com" className="text-red-600 hover:underline">mirajshafek04@gmail.com</a> or use our secure contact form.
                 </p>
               </div>
             </div>
