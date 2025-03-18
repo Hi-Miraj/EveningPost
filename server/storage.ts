@@ -351,6 +351,37 @@ As part of its milestone celebration, MedVisual also launched its official websi
   author: 'Editorial Team',
   publishedAt: new Date('2025-02-14T10:00:00Z').toISOString(),
   isFeatured: 1
+},
+      {
+  title: 'Lamine Yamal Shines with a Stunning Stoppage-Time Strike as Barcelona Stages Dramatic 4-2 Comeback Against Atletico Madrid',
+  slug: 'lamine-yamal-stoppage-time-strike-barcelona-comeback-atletico-madrid',
+  excerpt: 'Barcelona produces unforgettable comeback as 17-year-old sensation Lamine Yamal seals thrilling 4-2 victory with spectacular long-range goal.',
+  content: `Barcelona produced yet another unforgettable comeback as they overturned a two-goal deficit to secure a thrilling 4-2 victory over Atletico Madrid at the Metropolitano Stadium. The night belonged to 17-year-old sensation Lamine Yamal, who sealed the win with a spectacular long-range goal in stoppage time.
+
+Atletico Madrid looked in complete control after Alexander Sorloth doubled their lead in the 70th minute. However, Barcelona responded in emphatic fashion, beginning with Robert Lewandowski finding the net in the 72nd minute to spark hopes of a comeback.
+
+The turning point came deep into stoppage time when Yamal unleashed a breathtaking strike from outside the box, sending the ball past the Atletico goalkeeper to put Barcelona ahead for the first time in the match at 3-2.
+
+Hansi Flick's substitutions proved decisive, with Ferran Torres making an instant impact off the bench by scoring a well-placed header in the 78th minute to bring Barcelona level at 2-2.
+
+As Atletico struggled to recover from the late setback, Torres struck again in the dying moments of the match to secure his brace and seal a 4-2 victory for the Catalan side.
+
+Speaking after the game, Yamal expressed his delight at the result and his crucial goal:
+
+"It was vital to get the three points today. We kept fighting until the very end, and I was confident that if I got an opportunity, I would make it count. When the ball came to me, I took my chance, and thankfully, it went in."
+
+Barcelona's win not only extended their unbeaten run but also propelled them to the top of the league table. With 60 points, they are now level with Real Madrid but hold a crucial game in hand in the title race.
+
+Barcelona's head coach, Hansi Flick, was full of praise for his players after another resilient performance:
+
+"I am proud of the team. They never stopped believing, and that mentality made the difference tonight. It's a massive victory, and being at the top of the table is a great reward for our efforts."
+
+As the title race heats up, Barcelona's ability to stage dramatic comebacks could prove decisive in their pursuit of domestic glory. With performances like this, the Catalan giants continue to showcase their fighting spirit and attacking prowess on the biggest stages.`,
+  imageUrl: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-03/GettyImages-2204952196.jpg?h=a3d47caa&itok=C7YVgUwC',
+  categoryId: 6, // Sports
+  author: 'Sports Correspondent',
+  publishedAt: new Date('2025-03-17T01:41:00Z').toISOString(),
+  isFeatured: 1
 }
     ];
     
