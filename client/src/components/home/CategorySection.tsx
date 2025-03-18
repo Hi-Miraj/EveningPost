@@ -19,7 +19,8 @@ const CategorySection = () => {
     technology: "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
     science: "https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
     world: "https://images.unsplash.com/photo-1518107616985-bd48230d3b20?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
-    sports: "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80"
+    sports: "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
+    opinion: "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80"
   };
 
   const handlePrev = () => {
