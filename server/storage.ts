@@ -145,7 +145,8 @@ export class MemStorage implements IStorage {
       { name: 'Technology', slug: 'technology' },
       { name: 'Science', slug: 'science' },
       { name: 'World', slug: 'world' },
-      { name: 'Sports', slug: 'sports' }
+      { name: 'Sports', slug: 'sports' },
+      { name: 'Opinion', slug: 'opinion' }
     ];
     
     sampleCategories.forEach(category => {
