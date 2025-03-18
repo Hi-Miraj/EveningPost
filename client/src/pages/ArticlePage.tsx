@@ -2,7 +2,6 @@ import { useQuery } from "@tanstack/react-query";
 import { useRoute } from "wouter";
 import { Article } from "@shared/schema";
 import { Helmet } from 'react-helmet';
-import DOMPurify from 'dompurify';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import { Skeleton } from "@/components/ui/skeleton";
@@ -60,7 +59,6 @@ const ArticlePage = () => {
     );
   }
 
-  // Map category IDs to names
   const categoryNames: { [key: number]: string } = {
     1: 'Politics',
     2: 'Business', 
@@ -116,10 +114,9 @@ const ArticlePage = () => {
                 </div>
               )}
               
-              {/* Render content with proper formatting */}
               <div 
                 className="prose prose-lg prose-invert max-w-none [&_strong]:text-white [&_h3]:text-2xl [&_h3]:font-bold [&_h3]:mt-6 [&_h3]:mb-4 [&_a]:text-blue-400 [&_a]:underline hover:[&_a]:text-blue-300"
-                dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(article.content) }}
+                dangerouslySetInnerHTML={{ __html: article.content }}
               />
             </article>
           </div>
