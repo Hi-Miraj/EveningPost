@@ -14,8 +14,10 @@
 
 In today's world, many platforms impose limits on the flow of information or restrict access to certain viewpoints. **The Evening Post** breaks down these barriers, providing a space where everyone has the freedom to share news, express opinions, and engage in a global conversation. Whether you're interested in local news, global politics, or niche topics, **The Evening Post** is your go-to platform for open, unrestricted access to news.
 
+## Try It
+
+Try it now: [https://eveningpost.onrender.com/](https://eveningpost.onrender.com/)
+
 ## Contributing
 
 As an open-source platform, **The Evening Post** welcomes contributions from anyone who believes in the importance of free and open communication. If you want to contribute, share ideas, or simply improve the platform, you're welcome to join in. Together, we can make **The Evening Post** the go-to place for unrestricted news sharing.
-
----
