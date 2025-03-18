@@ -40,7 +40,7 @@ const TrendingSection = () => {
     3: 'Technology',
     4: 'Science',
     5: 'World',
-    6: 'Sports'
+    6: 'Sports',
     7: 'Opinion'
   };
 
