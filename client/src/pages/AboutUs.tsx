@@ -8,7 +8,7 @@ const AboutUs = () => {
     <>
       <Helmet>
         <title>About Us | The Evening Post</title>
-        <meta name="description" content="Learn about The Evening Post, our mission, values, and the team behind our news coverage." />
+        <meta name="description" content="Learn about The Evening Post, our open-source news platform dedicated to unrestricted access to information." />
       </Helmet>
       
       <div className="min-h-screen bg-black text-white">
@@ -21,36 +21,37 @@ const AboutUs = () => {
               
               <div className="prose prose-lg prose-invert max-w-none">
                 <p>
-                  The Evening Post is a leading source of news and information, dedicated to delivering reliable, timely, and insightful coverage from around the globe.
+                  The Evening Post is an open-source news sharing platform that aims to provide unrestricted access to global news. With a focus on freedom of expression and transparency, the platform allows users to share, access, and discuss news from all corners of the world without any restrictions or limitations.
                 </p>
                 
-                <h2>Our Mission</h2>
+                <h2>Our Vision</h2>
                 <p>
-                  Our mission is to provide accurate, balanced, and comprehensive reporting that helps our readers understand the complex world around them. We believe in the power of journalism to inform, educate, and inspire.
+                  We dream of a world where neutral, authentic news sharing is completely free from restrictions. Founded on March 17, 2025, our platform stands as a testament to the power of collective journalism—where facts matter, diverse perspectives are celebrated, and no single entity controls the narrative.
                 </p>
                 
-                <h2>Our Values</h2>
+                <h2>Key Principles</h2>
                 <ul>
-                  <li><strong>Accuracy:</strong> We verify facts and correct errors promptly.</li>
-                  <li><strong>Independence:</strong> We maintain editorial independence and avoid conflicts of interest.</li>
-                  <li><strong>Fairness:</strong> We seek diverse perspectives and treat all subjects with respect.</li>
-                  <li><strong>Transparency:</strong> We are clear about our sources and methods.</li>
-                  <li><strong>Accountability:</strong> We accept responsibility for our work and welcome feedback.</li>
+                  <li><strong>Truly Open-Source:</strong> Every aspect of The Evening Post is open-source—from our codebase to our editorial process. Anyone can contribute, modify, and improve the platform.</li>
+                  <li><strong>Unrestricted Expression:</strong> We believe in the free exchange of information. Users can share and access news from any source, ensuring a genuine diversity of perspectives.</li>
+                  <li><strong>Global Community:</strong> Our platform transcends borders, welcoming news from every corner of the world to create an interconnected network of information sharing.</li>
+                  <li><strong>Community Governance:</strong> There is no hierarchy here—every contributor is an equal stakeholder in our mission. We make decisions collectively and transparently.</li>
+                  <li><strong>Censorship Resistance:</strong> We stand firmly against information control. The Evening Post provides a space where users can express themselves freely and access news without artificial constraints.</li>
+                  <li><strong>Rigorous Fact-Checking:</strong> Freedom doesn't mean chaos. Our community upholds standards of accuracy through collaborative verification and transparent correction processes.</li>
                 </ul>
                 
-                <h2>Our History</h2>
+                <h2>Why The Evening Post Exists</h2>
                 <p>
-                  Founded in 2010, The Evening Post began as a digital-first publication committed to reimagining journalism for the modern era. Over the years, we have grown our audience while maintaining our commitment to quality reporting and storytelling.
+                  In an era where information is increasingly filtered through corporate and algorithmic gatekeepers, The Evening Post breaks down these barriers. We've created a space where everyone—regardless of background or resources—has equal opportunity to share news, express opinions, and participate in global conversation.
                 </p>
                 
-                <h2>Our Team</h2>
+                <h2>Our Structure</h2>
                 <p>
-                  Our global network of journalists, editors, and contributors brings diverse expertise and perspectives to our coverage. From breaking news to in-depth analysis, our team works tirelessly to bring you the stories that matter.
+                  The Evening Post has no employees—only participants. We are contributors who share news, developers who maintain the platform, fact-checkers who ensure accuracy, moderators who preserve freedom of expression, and readers who drive meaningful discussion. As a non-profit organization, we are committed to remaining free from commercial pressures and conflicts of interest.
                 </p>
                 
-                <h2>Contact Us</h2>
+                <h2>Join The Movement</h2>
                 <p>
-                  We value your feedback and questions. You can reach our editorial team at <a href="mailto:editor@eveningpost.com" className="text-red-600 hover:underline">editor@eveningpost.com</a> or visit our <a href="/contact" className="text-red-600 hover:underline">Contact page</a> for more information.
+                  Experience truly open news, contact us at <a href="mailto:mirajshafek04@gmail.com" className="text-red-600 hover:underline">contribute@eveningpost.org</a> to get involved. Together, we're redefining what news can be—authentic, neutral, and truly free.
                 </p>
               </div>
             </div>
