@@ -390,7 +390,7 @@ Barcelona's head coach, Hansi Flick, was full of praise for his players after an
 
 As the title race heats up, Barcelona's ability to stage dramatic comebacks could prove decisive in their pursuit of domestic glory. With performances like this, the Catalan giants continue to showcase their fighting spirit and attacking prowess on the biggest stages.`,
   imageUrl: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-03/GettyImages-2204952196.jpg?h=a3d47caa&itok=C7YVgUwC',
-  categoryId: 2, // Sports
+  categoryId: 6, // Sports
   author: 'Sports Correspondent',
   publishedAt: new Date('2025-03-17T01:41:00Z').toISOString(),
   isFeatured: 1
