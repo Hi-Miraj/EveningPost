@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useRoute } from "wouter";
 import { Article } from "@shared/schema";
 import { Helmet } from 'react-helmet';
+import DOMPurify from 'dompurify';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import { Skeleton } from "@/components/ui/skeleton";
@@ -26,11 +27,8 @@ const ArticlePage = () => {
             <div className="max-w-4xl mx-auto">
               <Skeleton className="h-8 w-72 mb-4" />
               <Skeleton className="h-6 w-full mb-6" />
-              
               <Skeleton className="h-5 w-48 mb-8" />
-              
               <Skeleton className="h-64 w-full mb-8" />
-              
               <div className="space-y-6">
                 <Skeleton className="h-6 w-full" />
                 <Skeleton className="h-6 w-full" />
@@ -118,12 +116,11 @@ const ArticlePage = () => {
                 </div>
               )}
               
-              <div className="prose prose-lg prose-invert max-w-none">
-                {/* Render content with proper paragraphs */}
-                {article.content.split('\n\n').map((paragraph, index) => (
-                  <p key={index}>{paragraph}</p>
-                ))}
-              </div>
+              {/* Render content with proper formatting */}
+              <div 
+                className="prose prose-lg prose-invert max-w-none [&_strong]:text-white [&_h3]:text-2xl [&_h3]:font-bold [&_h3]:mt-6 [&_h3]:mb-4 [&_a]:text-blue-400 [&_a]:underline hover:[&_a]:text-blue-300"
+                dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(article.content) }}
+              />
             </article>
           </div>
         </main>
@@ -136,3 +133,4 @@ const ArticlePage = () => {
 };
 
 export default ArticlePage;
+
