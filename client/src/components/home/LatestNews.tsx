@@ -60,7 +60,11 @@ const LatestNews = () => {
                 <CategoryTag className="mb-3 inline-block">
                   {article.categoryId === 1 ? 'Politics' : 
                    article.categoryId === 2 ? 'Business' : 
-                   article.categoryId === 3 ? 'Technology' : 'Science'}
+                   article.categoryId === 3 ? 'Technology' :
+                   article.categoryId === 4 ? 'Science' :
+                   article.categoryId === 5 ? 'World' :
+                   article.categoryId === 6 ? 'Sports' :
+                   article.categoryId === 7 ? 'Opinion' : 'News'} 
                 </CategoryTag>
                 <h3 className="text-xl font-['Playfair_Display'] font-bold mb-3">
                   <Link href={`/article/${article.slug}`}>
