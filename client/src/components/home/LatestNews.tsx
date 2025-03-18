@@ -68,12 +68,12 @@ const LatestNews = () => {
                 </CategoryTag>
                 <h3 className="text-xl font-['Playfair_Display'] font-bold mb-3">
                   <Link href={`/article/${article.slug}`}>
-                    <a className="hover:text-red-600 transition-colors">{article.title}</a>
+                    {article.title}
                   </Link>
                 </h3>
                 <p className="text-gray-400 mb-4">{article.excerpt}</p>
-                <Link href={`/article/${article.slug}`}>
-                  <a className="text-red-600 hover:underline">Read More</a>
+                <Link href={`/article/${article.slug}`} className="text-red-600 hover:underline">
+                  Read More
                 </Link>
               </div>
             </div>
