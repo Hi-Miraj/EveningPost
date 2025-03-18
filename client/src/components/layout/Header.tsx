@@ -82,6 +82,11 @@ const Header = () => {
                     Sports
                   </a>
                 </Link>
+                <Link href="/category/opinion">
+                  <a className="block px-4 py-2 text-sm text-white hover:bg-gray-800 hover:text-red-600">
+                    Opinion
+                  </a>
+                </Link>
               </div>
             </div>
             
