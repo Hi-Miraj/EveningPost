@@ -62,7 +62,7 @@ const AboutUs = () => {
                 
                 <h2>Join The Movement</h2>
                 <p>
-                  Experience truly open news, contact us at <a href="mailto:mirajshafek04@gmail.com" className="text-red-600 hover:underline">contribute@eveningpost.org</a> or visit our <a href="/contact" className="text-red-600 hover:underline">Contact page</a> for more information and to get involved. Together, we're redefining what news can be—authentic, neutral, and truly free.
+                  Experience truly open news, contact us at <a href="mailto:contribute@eveningpost.org" className="text-red-600 hover:underline">contribute@eveningpost.org</a> or visit our <a href="/contact" className="text-red-600 hover:underline">Contact page</a> for more information and to get involved. Together, we're redefining what news can be—authentic, neutral, and truly free.
                 </p>
               </div>
             </div>
