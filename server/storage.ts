@@ -417,7 +417,7 @@ As the title race heats up, Barcelona's ability to stage dramatic comebacks coul
   "categoryId": 3,  
   "author": "Tech Editorial Team",
   "publishedAt": "2025-03-19T09:30:00Z",
-  "isFeatured": 1
+  "isFeatured": 0
 }
 
     ];
