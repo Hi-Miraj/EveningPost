@@ -21,7 +21,7 @@ const AboutUs = () => {
               
               <div className="prose prose-lg prose-invert max-w-none">
                 <p>
-                  The Evening Post is an open-source news sharing platform that aims to provide unrestricted access to global news. With a focus on freedom of expression and transparency, the platform allows users to share, access, and discuss news from all corners of the world without any restrictions or limitations.
+                  The Evening Post is a non-profit, open-source news sharing platform that aims to provide unrestricted access to global news. With a focus on freedom of expression and transparency, the platform allows users to share, access, and discuss news from all corners of the world without any restrictions or limitations. As a dedicated non-profit organization, The Evening Post is firmly committed to public service rather than commercial interests, ensuring that quality journalism and information equity remain accessible to all regardless of economic status or geographic location.
                 </p>
                 
                 <h2>Our Vision</h2>
@@ -31,6 +31,7 @@ const AboutUs = () => {
                 
                 <h2>Key Principles</h2>
                 <ul>
+                  <li><strong>100% Non-Profit:</strong> The Evening Post operates entirely as a non-profit organization, with a firm commitment to never display commercial advertisements, require subscriptions, or solicit payments from users.</li>
                   <li><strong>Truly Open-Source:</strong> Every aspect of The Evening Post is open-source—from our codebase to our editorial process. Anyone can contribute, modify, and improve the platform.</li>
                   <li><strong>Unrestricted Expression:</strong> We believe in the free exchange of information. Users can share and access news from any source, ensuring a genuine diversity of perspectives.</li>
                   <li><strong>Global Community:</strong> Our platform transcends borders, welcoming news from every corner of the world to create an interconnected network of information sharing.</li>
@@ -46,7 +47,13 @@ const AboutUs = () => {
                 
                 <h2>Our Structure</h2>
                 <p>
-                  The Evening Post has no employees—only participants. We are contributors who share news, developers who maintain the platform, fact-checkers who ensure accuracy, moderators who preserve freedom of expression, and readers who drive meaningful discussion. As a non-profit organization, we are committed to remaining free from commercial pressures and conflicts of interest.
+                  The Evening Post has no employees—only active participants in our community. Our organization consists of:
+• Contributors who share and report news
+• Developers who build and maintain the platform
+• Fact-checkers who verify information accuracy
+• Moderators who uphold freedom of expression
+• Readers who engage in meaningful discussions
+As a dedicated non-profit organization, we remain completely independent from commercial pressures and conflicts of interest, ensuring our platform serves the public interest alone.
                 </p>
                 
                 <h2>Join The Movement</h2>
