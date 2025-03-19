@@ -48,12 +48,16 @@ const AboutUs = () => {
                 <h2>Our Structure</h2>
                 <p>
                   The Evening Post has no employees—only active participants in our community. Our organization consists of:
-• Contributors who share and report news
-• Developers who build and maintain the platform
-• Fact-checkers who verify information accuracy
-• Moderators who uphold freedom of expression
-• Readers who engage in meaningful discussions
-As a dedicated non-profit organization, we remain completely independent from commercial pressures and conflicts of interest, ensuring our platform serves the public interest alone.
+                </p>
+                <ul>
+                  <li>Contributors who share and report news</li>
+                  <li>Developers who build and maintain the platform</li>
+                  <li>Fact-checkers who verify information accuracy</li>
+                  <li>Moderators who uphold freedom of expression</li>
+                  <li>Readers who engage in meaningful discussions</li>
+                </ul>
+                <p>
+                  As a dedicated non-profit organization, we remain completely independent from commercial pressures and conflicts of interest, ensuring our platform serves the public interest alone.
                 </p>
                 
                 <h2>Join The Movement</h2>
