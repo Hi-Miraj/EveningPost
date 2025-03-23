@@ -464,15 +464,15 @@ As the title race heats up, Barcelona's ability to stage dramatic comebacks coul
   "isFeatured": 1
 },
       {
-  "title": "Jessore Awami League Leader and Former Union Chairman Claims to be 'Rightful' Prime Minister of Bangladesh Until Hasina’s Arrival",
-  "slug": "jessore-awami-league-leader-claims-pm",
-  "excerpt": "Awami League leader Shrif Jamal of Jessore declares himself interim Prime Minister until Sheikh Hasina returns.",
-  "content": "In a surprising turn of events, Awami League leader and former Union Parishad chairman Shrif Jamal of Jessore has publicly declared himself the rightful interim Prime Minister of Bangladesh until former PM Sheikh Hasina returns to office. His statement has sparked widespread reactions across the country, with party members and opposition figures expressing mixed opinions on the legitimacy of his claim.\n\nAt a press briefing held in Jessore on Friday, Jamal stated, 'As a dedicated member of the Awami League and a guardian of our democratic process, I have taken it upon myself to ensure stability and continuity in governance. Until our esteemed leader Sheikh Hasina resumes her rightful place, I will act in her stead.'\n\nJamal did not clarify under what legal or constitutional basis he was making this claim. However, he insisted that his decision was in the best interest of the nation, citing concerns over political instability and the need for strong leadership in Sheikh Hasina’s absence.\n\nThe announcement has been met with skepticism and outright dismissal by many within the ruling Awami League. Senior party members have distanced themselves from Jamal’s statement, emphasizing that no such arrangement has been sanctioned by the party leadership.\n\nMeanwhile, legal experts have pointed out that Bangladesh’s Constitution does not allow for such unilateral claims to power. Public response has ranged from amusement to confusion, with social media buzzing with reactions.\n\nAs of now, the government has not issued an official statement, but insiders suggest that legal actions could be considered if the situation escalates.",
-  "imageUrl": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2022/12/24/sheikh-hasina-awami-league-council.jpeg",
-  "categoryId": 1,
-  "author": "Rafiqul Islam",
-  "publishedAt": "2025-03-22T12:00:00Z",
-  "isFeatured": 0
+  "title": "NVIDIA Unveils Dynamo: Revolutionary Open-Source Inference Software for AI Reasoning Models",
+  "slug": "nvidia-unveils-dynamo-open-source-inference-software-ai-reasoning",
+  "excerpt": "NVIDIA launches Dynamo, an open-source inference software that accelerates and scales reasoning models, doubling performance and revenue for AI factories while boosting token generation by over 30x per GPU.",
+  "content": "<h3>Introduction</h3>\n\nNVIDIA has just launched Dynamo, an impressive open-source inference software designed to accelerate and scale reasoning models within AI factories. As the successor to NVIDIA Triton Inference Server, Dynamo represents a new generation of AI inference technology specifically engineered to maximize token revenue generation.\n\n<h3>Key Innovations</h3>\n\n<ul>\n  <li><strong>Disaggregated Serving</strong>: Separates processing and generation phases of LLMs onto distinct GPUs, allowing each phase to be optimized independently</li>\n  <li><strong>GPU Planner</strong>: Dynamically adds/removes GPUs based on fluctuating user demand</li>\n  <li><strong>Smart Router</strong>: Intelligently directs inference requests to minimize costly recomputations</li>\n  <li><strong>Low-Latency Communication</strong>: Accelerates data transfer across GPU networks</li>\n  <li><strong>Memory Manager</strong>: Offloads inference data to lower-cost storage without impacting performance</li>\n</ul>\n\n<h3>Performance Improvements</h3>\n\nThe results speak for themselves - using the same number of GPUs, Dynamo doubles performance and revenue for AI factories serving Llama models on NVIDIA's Hopper platform. When running DeepSeek-R1 on GB200 NVL72 racks, it boosts token generation by over 30x per GPU!\n\n<h3>Industry Adoption</h3>\n\nMajor players are already on board, including AWS, Cohere, Perplexity, Microsoft Azure, Google Cloud, Meta, and more. Perplexity CTO Denis Yarats notes: \"To handle hundreds of millions of requests monthly, we rely on NVIDIA GPUs and inference software to deliver the performance, reliability and scale our business and users demand.\"\n\n<h3>Market Impact</h3>\n\nAs AI reasoning becomes mainstream, with each model generating thousands of tokens per prompt, Dynamo's ability to increase performance while lowering costs will be crucial for accelerating growth across the industry.",
+  "imageUrl": "https://example.com/nvidia-dynamo-announcement.jpg",
+  "categoryId": 2,
+  "author": "Tech Editorial Team",
+  "publishedAt": "2025-03-23T11:30:00Z",
+  "isFeatured": 1
 }
 
 
