@@ -10,7 +10,7 @@ const Footer = () => {
               THE EVENING POST
             </h3>
             <p className="text-gray-400 mb-4">
-              Delivering reliable, timely and insightful news coverage from around the globe.
+              Unfiltered. Unbiased. For Everyone.
             </p>
           </div>
           
