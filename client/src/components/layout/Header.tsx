@@ -20,7 +20,7 @@ const Header = () => {
                   THE EVENING POST
                 </h1>
                 <p className="text-sm text-gray-400">
-                  Delivering reliable, timely and insightful news coverage from around the globe.
+                  Unfiltered. Unbiased. For Everyone.
                 </p>
               </a>
             </Link>
