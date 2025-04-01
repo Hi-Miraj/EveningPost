@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <Helmet>
         <title>The Evening Post - Latest News and Updates</title>
-        <meta name="description" content="Delivering reliable, timely and insightful news coverage from around the globe." />
+        <meta name="description" content="Unfiltered. Unbiased. For Everyone." />
       </Helmet>
       
       <div className="min-h-screen bg-black text-white">
