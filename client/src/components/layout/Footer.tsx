@@ -78,7 +78,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a 
-                href="#" 
+                href="https://eveningpost.onrender.com/" 
                 className="text-gray-400 hover:text-red-600 transition-colors"
                 aria-label="Twitter"
               >
@@ -87,7 +87,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a 
-                href="#" 
+                href="https://eveningpost.onrender.com/" 
                 className="text-gray-400 hover:text-red-600 transition-colors"
                 aria-label="Facebook"
               >
